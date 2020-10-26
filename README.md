@@ -44,8 +44,6 @@ Current usage abilities:
   - Converts the file maps from array into meshes and maps into mesh maps
         
         > (hello_mesh_map, world_mesh_map)
-
-## Added in Version a0.03
   
   - Takes the mesh mapping and uses the z-score standardization
 
@@ -54,3 +52,9 @@ Current usage abilities:
   - Saves Z standard meshes into a new Z_map
 
         > (hello_z_map, world_z_map)
+
+### Added in Version a0.04
+
+  - Functions to simplify z_score_converion function
+
+        > (mesh_mean(), mesh_sigma(), mesh_z())
