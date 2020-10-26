@@ -1,6 +1,6 @@
 # HelloWorld-EEG
 
-Build version alpha 0.03
+Build version alpha 0.04
 
 Author: Joseph O'Neill
 
